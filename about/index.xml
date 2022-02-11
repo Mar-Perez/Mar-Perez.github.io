@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yo on Mare Nostrum</title>
-    <link>https://mar-perez.github.io/about/</link>
+    <link>http://www.mar-perez.com/about/</link>
     <description>Recent content in Yo on Mare Nostrum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate><atom:link href="https://mar-perez.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate><atom:link href="http://www.mar-perez.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

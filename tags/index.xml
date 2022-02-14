@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on La mar salada</title>
-    <link>mar-perez.github.com/tags/</link>
+    <link>mar-perez.github.io/tags/</link>
     <description>Recent content in Tags on La mar salada</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language><atom:link href="mar-perez.github.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-ES</language><atom:link href="mar-perez.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

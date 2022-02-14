@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mare Nostrum</title>
-    <link>https://mar-perez.github.io/tags/</link>
-    <description>Recent content in Tags on Mare Nostrum</description>
+    <title>Tags on La mar salada</title>
+    <link>https://marsalada.net/tags/</link>
+    <description>Recent content in Tags on La mar salada</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language><atom:link href="https://mar-perez.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-ES</language><atom:link href="https://marsalada.net/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

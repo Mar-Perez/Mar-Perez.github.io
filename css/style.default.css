@@ -22,6 +22,8 @@ body {
   --text-dark:#202020;
 }
 
+.container-fluid{height: 100%;}
+
 #all{height: 100%;}
 .row{height: 100%;}
 
@@ -362,7 +364,7 @@ SIDEBAR + RIGHT COLUMN
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  font-family: "Montserrat", "Times New Roman", Times, serif;
+  font-family: "Montserrat", Helvetica, sans-serif;
   padding:3em 0 1em 0;
 }
 .sidebar-heading a {
@@ -372,6 +374,14 @@ SIDEBAR + RIGHT COLUMN
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
+
+.sidebar-heading a span{
+  font-family:"Karla", "Times New Roman", Times, serif;
+  text-transform:lowercase;
+  font-size: 1em;
+  font-style: italic;
+}
+
 .sidebar-heading a:hover {
   border-bottom: dotted 1px var(--primary);
   color: var(--white);
@@ -386,7 +396,7 @@ SIDEBAR + RIGHT COLUMN
   list-style-type: none;
   padding:0;
   width: 60%;
-  margin:0 auto;
+  margin:1em auto;
 }
 .sidebar-menu li {
   margin-bottom: 5px;
@@ -936,7 +946,7 @@ a:active {
 }
 .box-masonry .box-masonry-text {
   padding: 0px;
-  margin-bottom:1em;
+  margin-bottom:0;
 }
 .box-masonry .box-masonry-text p {
   color: var(--text-dark)666;
@@ -1421,7 +1431,7 @@ STYLE SWITCHER FOR DEMO
   .navbar-collapse.right {
     float: right;
   }
-  .container-fluid{height: 100%;}
+
   .navbar-fixed-top .navbar-collapse,
   .navbar-static-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
@@ -2038,8 +2048,7 @@ h6,
   font-family: "Montserrat", Helvetica, Arial, sans-serif;
   font-weight: 700;
   line-height: 1.2;
-  margin-bottom:0px;.content-column
-  ;
+  margin-bottom:0px;
 }
 h1,
 .h1 {
@@ -2079,7 +2088,7 @@ h3,
   margin-bottom: 24px;
 }
 p {
-  margin: 0 0 24px;
+  margin: 0 0 0;
   font-size:1em;
 }
 .lead {
